@@ -1,5 +1,4 @@
 
-```markdown
 # IA no dia a dia: como a Inteligência Artificial pode facilitar a vida das pessoas
 
 ## 📒 Descrição
