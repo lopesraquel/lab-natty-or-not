@@ -1,51 +1,39 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# IA no dia a dia: como a Inteligência Artificial pode facilitar a vida das pessoas
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto explora como as IAs generativas podem ser aplicadas no dia a dia das pessoas, auxiliando em tarefas cotidianas como organização da rotina, estudos, trabalho, criatividade e tomada de decisões. O objetivo é mostrar que a Inteligência Artificial não é algo distante ou futurista, mas uma ferramenta prática que já faz parte da vida moderna, quando usada de forma consciente e ética.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT – geração de textos, ideias, organização de rotinas e simulações de uso diário
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O processo começou com a definição do tema “IA aplicada ao dia a dia das pessoas”. Em seguida, foram identificadas situações comuns da rotina — como estudar, trabalhar, organizar tarefas e cuidar do bem-estar.
+
+A partir disso, utilizei IAs generativas para:
+
+- Criar textos explicativos em linguagem acessível
+
+- Gerar exemplos práticos de uso da IA no cotidiano
+
+- Produzir imagens ilustrativas que representassem pessoas utilizando IA em situações reais
+
+Todo o conteúdo gerado foi analisado, ajustado e organizado manualmente, garantindo clareza, coerência e um uso responsável da tecnologia.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Como resultado, foi desenvolvido um material informativo e visualmente atrativo que demonstra aplicações reais da Inteligência Artificial no cotidiano. O projeto evidencia como a IA pode:
+
+- Aumentar a produtividade
+
+- Facilitar a organização pessoal
+
+- Apoiar processos de aprendizagem
+
+- Estimular a criatividade
+
+Além disso, o projeto contribui para desmistificar a IA, mostrando que ela pode ser uma aliada acessível e útil para diferentes perfis de pessoas.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+O principal desafio do projeto foi criar um conteúdo que não parecesse totalmente artificial ou genérico, mantendo um aspecto “natty” mesmo com o uso de IA. Isso exigiu curadoria humana, senso crítico e ajustes constantes, reforçando que a IA funciona melhor como uma ferramenta de apoio — e não como substituta da criatividade e do pensamento humano.
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
